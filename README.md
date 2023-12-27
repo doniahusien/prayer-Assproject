@@ -33,7 +33,7 @@ This assembly code calculates the remaining time until the next prayer based on 
 - Prayer hours and messages for Fajr, Dhuhr, Asr, Maghrib, and Isha.
 
 ### Code Section
-
+we use directive .386  because label done stored in far address so can't jmp to it 
 1. **User Input Validation:**
    - Ensures the entered hour is between 01 and 24.
 
