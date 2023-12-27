@@ -5,8 +5,8 @@
 This assembly code calculates the remaining time until the next prayer based on user input. It supports Fajr, Dhuhr, Asr, Maghrib, and Isha prayers.
 
 ## Team
--Donia Hussien Mohamed
--Haneen Adel Mohamed 
+- Donia Hussien Mohamed
+- Haneen Adel Mohamed 
 
 ## Usage
 
